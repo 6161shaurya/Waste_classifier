@@ -1,0 +1,14 @@
+# requirements.txt
+tensorflow          # No version constraint, let pip pick
+tensorboard==2.18.0 # <--- ADD THIS LINE TO FORCE COMPATIBLE VERSION
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+streamlit-webrtc
+opencv-python       # No version constraint
+requests
+tqdm
+Pillow
