@@ -1,6 +1,5 @@
 # requirements.txt
-tensorflow          # No version constraint
-tensorboard         # No version constraint
+tensorflow          
 scikit-learn
 pandas
 numpy
@@ -8,7 +7,7 @@ matplotlib
 seaborn
 streamlit
 streamlit-webrtc
-opencv-python       # No version constraint
+opencv-python      
 requests
 tqdm
 Pillowgit 
