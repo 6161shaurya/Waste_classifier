@@ -10,4 +10,4 @@ streamlit-webrtc
 opencv-python      
 requests
 tqdm
-Pillowgit 
+Pillowgit   

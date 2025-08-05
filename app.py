@@ -159,7 +159,8 @@ elif page == "Waste Segregation (Image Upload)":
 
 elif page == "About Project":
     st.title("About This Project")
-    st.markdown("""
+    st.markdown
+    ("""
     This project demonstrates an AI-powered solution for waste segregation, leveraging deep learning for image classification.
 
     **Core Functionality:**
